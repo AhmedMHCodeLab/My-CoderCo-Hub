@@ -12,14 +12,16 @@ Each project explores a key aspect of the DevOps lifecycle — from CI/CD pipeli
 
 This hub includes projects built using:
 
-- **Linux** — foundational systems fluency
-- **Bash** — scripting for automation and control
-- **AWS** — infrastructure deployment and scaling
-- **Docker / Kubernetes** — container orchestration and management
+- **Linux**  — foundational systems fluency
+- **BASH** — automation and control scripting
+- **Git** — version control and collaboration
+- **Networking** — understanding how the internet works
+- **Docker** — containerization and deployment
+- **AWS** — cloud infrastructure and services
 - **Terraform** — infrastructure as code
-- **GitHub Actions** — CI/CD pipelines
-- **Prometheus & Grafana** — observability and monitoring
-- **Ansible** — configuration management
+- **CI/CD** — continuous integration and deployment pipelines
+- **Kubernetes** — container orchestration and management
+- **Azure** — Microsoft cloud platform
 
 ---
 
