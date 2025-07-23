@@ -38,7 +38,7 @@ This mini-project helped reinforce:
 - Arithmetic expressions
 - Exit codes
 
-> Simple, but solid. Check it [here](./projects/calculator.sh).
+> Simple, but solid. Check it [here](.[/projects/calculator.sh](https://github.com/AhmedMHCodeLab/My-CoderCo-Hub/tree/main/Linux/Octal%20chmod%20Calculator)).
 
 ---
 ## 🕹 OverTheWire Bandit (https://overthewire.org/wargames/bandit/)
