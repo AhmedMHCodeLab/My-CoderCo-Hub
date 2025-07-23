@@ -44,16 +44,6 @@ Each project lives in its own folder with:
 
 ---
 
-## 🧭 Projects Index (in progress)
-
-| Project | Key Concepts | Status |
-|--------|--------------|--------|
-| `aws-static-site` | S3, CloudFront, IaC (Terraform) | ✅ Completed |
-| `ci-cd-workflow` | GitHub Actions, test → build → deploy | 🚧 In Progress |
-| `k8s-lab` | Minikube, Helm, Secrets Mgmt | 🔜 Planned |
-
----
-
 ## 📝 Reflections
 
 > _"Documentation isn’t an afterthought. It’s a window into decision-making."_  
